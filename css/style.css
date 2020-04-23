@@ -5,11 +5,11 @@ body {
 
 .navbar-brand {
 	font-family: 'Cookie', cursive;
-	font-size: 25pt;
+	font-size: 20pt;
 }
 
 .banner img {
-	margin: 20px;
+	margin: 10px;
 }
 
 section { 
